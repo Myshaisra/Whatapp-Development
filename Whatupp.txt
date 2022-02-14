@@ -6,3 +6,5 @@ Author: Mohamed Ishack
 3.last seen code
 4.Attachments (image, Audio,Video) code
 Hiding the Last seen
+Adding Audio call
+Adding Video call
