@@ -5,3 +5,4 @@ Author: Mohamed Ishack
 2. chat screen code
 3.last seen code
 4.Attachments (image, Audio,Video) code
+Hiding the Last seen
